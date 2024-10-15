@@ -1,0 +1,1325 @@
+{
+  "1": {
+    "Customer Name": "",
+    "Drink Type": "Latte",
+    "Milk Type": "Almond",
+    "Strength": "1/2"
+  },
+  "2": {
+    "Customer Name": "N/A",
+    "Drink Type": "Long Black",
+    "Milk Type": "N/A",
+    "Strength": "2"
+  },
+  "3": {
+    "Customer Name": "N/A",
+    "Drink Type": "Flat White",
+    "Milk Type": "Lite",
+    "Strength": "2"
+  },
+  "4": {
+    "Customer Name": "",
+    "Drink Type": "Hot Choc",
+    "Milk Type": "Full Cream"
+  },
+  "5": {
+    "Customer Name": "heather",
+    "Drink Type": "Flate White",
+    "Milk Type": "Lite",
+    "Strength": "1"
+  },
+  "6": {
+    "Customer Name": "hayley",
+    "Drink Type": "Mocha",
+    "Milk Type": "Soy",
+    "Strength": "1"
+  },
+  "7": {
+    "Customer Name": "jane",
+    "Drink Type": "Cappuccino",
+    "Milk Type": "Lite"
+  },
+  "8": {
+    "Customer Name": "arjun",
+    "Drink Type": "Flate White",
+    "Milk Type": "Almond",
+    "Strength": "1/2"
+  },
+  "9": {
+    "Customer Name": "sophie",
+    "Drink Type": "Flate White",
+    "Milk Type": "Lite",
+    "Strength": "1"
+  },
+  "10": {
+    "Customer Name": "Peta",
+    "Drink Type": "Flate White",
+    "Milk Type": "Full Cream",
+    "Strength": "1"
+  },
+  "11": {
+    "Customer Name": "jackson",
+    "Drink Type": "Piccolo",
+    "Milk Type": "Soy",
+    "Strength": "1"
+  },
+  "12": {
+    "Customer Name": "",
+    "Drink Type": "Latte",
+    "Milk Type": "Oat",
+    "Strength": "2"
+  },
+  "13": {
+    "Customer Name": "",
+    "Drink Type": "Flate White",
+    "Strength": "1"
+  },
+  "14": {
+    "Customer Name": "Ted",
+    "Drink Type": "Dirty Chai",
+    "Milk Type": "Full Cream",
+    "Strength": "1"
+  },
+  "15": {
+    "Customer Name": "",
+    "Drink Type": "Cappuccino",
+    "Milk Type": "Full Cream",
+    "Strength": "2"
+  },
+  "16": {
+    "Customer Name": "josie",
+    "Drink Type": "Flate White",
+    "Milk Type": "Lactose Free",
+    "Strength": "1"
+  },
+  "17": {
+    "Customer Name": "claire",
+    "Drink Type": "Flate White",
+    "Milk Type": "Lite",
+    "Strength": "2"
+  },
+  "18": {
+    "Customer Name": "Hayley",
+    "Drink Type": "Latte",
+    "Milk Type": "Lite",
+    "Strength": "1"
+  },
+  "19": {
+    "Customer Name": "Deion",
+    "Drink Type": "Flate White",
+    "Milk Type": "Lite",
+    "Strength": "1"
+  },
+  "20": {
+    "Customer Name": "sean",
+    "Drink Type": "Mocha",
+    "Milk Type": "Full Cream",
+    "Strength": "1"
+  },
+  "21": {
+    "Customer Name": "nikita",
+    "Drink Type": "Iced Dirty Chai",
+    "Milk Type": "Almond"
+  },
+  "22": {
+    "Customer Name": "adrian",
+    "Drink Type": "Flate White",
+    "Milk Type": "Full Cream",
+    "Strength": "2"
+  },
+  "23": {
+    "Customer Name": "linda",
+    "Drink Type": "Flate White",
+    "Milk Type": "Lite",
+    "Strength": "2"
+  },
+  "24": {
+    "Customer Name": "",
+    "Drink Type": "Flate White",
+    "Milk Type": "Full Cream",
+    "Strength": "1"
+  },
+  "25": {
+    "Customer Name": "",
+    "Drink Type": "Piccolo"
+  },
+  "26": {
+    "Customer Name": "vanessa lactose free please ☺️",
+    "Drink Type": "Cappuccino",
+    "Strength": "1"
+  },
+  "27": {
+    "Customer Name": "",
+    "Drink Type": "Flate White",
+    "Milk Type": "Full Cream",
+    "Strength": "2"
+  },
+  "28": {
+    "Customer Name": "beth",
+    "Drink Type": "Cappuccino",
+    "Milk Type": "Soy",
+    "Strength": "1"
+  },
+  "29": {
+    "Customer Name": "faye",
+    "Drink Type": "Cappuccino",
+    "Milk Type": "Oat",
+    "Strength": "1"
+  },
+  "30": {
+    "Customer Name": "beck",
+    "Drink Type": "Long Black",
+    "Milk Type": "N/A",
+    "Strength": "2"
+  },
+  "31": {
+    "Customer Name": "em",
+    "Drink Type": "Hot Choc",
+    "Milk Type": "Full Cream"
+  },
+  "32": {
+    "Customer Name": "N/A",
+    "Drink Type": "Cap",
+    "Milk Type": "Full Cream",
+    "Strength": "1"
+  },
+  "33": {
+    "Customer Name": "matt",
+    "Drink Type": "Flate White",
+    "Milk Type": "Full Cream",
+    "Strength": "2"
+  },
+  "34": {
+    "Customer Name": "alessia",
+    "Drink Type": "Dirty Chai",
+    "Milk Type": "Lite",
+    "Strength": "1"
+  },
+  "35": {
+    "Customer Name": "nick",
+    "Drink Type": "Short Black",
+    "Strength": "2"
+  },
+  "36": {
+    "Customer Name": "Peta",
+    "Drink Type": "Flate White",
+    "Milk Type": "Full Cream",
+    "Strength": "1"
+  },
+  "37": {
+    "Customer Name": "luke",
+    "Drink Type": "Latte",
+    "Milk Type": "Full Cream",
+    "Strength": "1"
+  },
+  "38": {
+    "Customer Name": "",
+    "Drink Type": "Flate White",
+    "Milk Type": "Full Cream",
+    "Strength": "2"
+  },
+  "39": {
+    "Customer Name": "N/A",
+    "Drink Type": "Latte",
+    "Milk Type": "Full Cream",
+    "Strength": "1"
+  },
+  "40": {
+    "Customer Name": "sophie",
+    "Drink Type": "Flate White",
+    "Milk Type": "Lite",
+    "Strength": "1"
+  },
+  "41": {
+    "Customer Name": "Ted",
+    "Drink Type": "Dirty Chai",
+    "Milk Type": "Full Cream",
+    "Strength": "1"
+  },
+  "42": {
+    "Customer Name": "N/A",
+    "Drink Type": "Flat White",
+    "Milk Type": "Full Cream",
+    "Strength": "2"
+  },
+  "43": {
+    "Customer Name": "Deion",
+    "Drink Type": "Short Black",
+    "Strength": "1"
+  },
+  "44": {
+    "Customer Name": "",
+    "Drink Type": "Flate White",
+    "Milk Type": "Almond",
+    "Strength": "2"
+  },
+  "45": {
+    "Customer Name": "",
+    "Drink Type": "Latte",
+    "Milk Type": "Almond",
+    "Strength": "1/2"
+  },
+  "46": {
+    "Customer Name": "",
+    "Drink Type": "Mocha",
+    "Milk Type": "Lite",
+    "Strength": "1"
+  },
+  "47": {
+    "Customer Name": "",
+    "Drink Type": "Flate White",
+    "Milk Type": "Lite",
+    "Strength": "1"
+  },
+  "48": {
+    "Customer Name": "",
+    "Drink Type": "Flate White",
+    "Milk Type": "Soy",
+    "Strength": "1"
+  },
+  "49": {
+    "Customer Name": "",
+    "Drink Type": "Hot Choc",
+    "Milk Type": "Full Cream"
+  },
+  "50": {
+    "Customer Name": "renee",
+    "Drink Type": "Cappuccino",
+    "Milk Type": "Almond",
+    "Strength": "1"
+  },
+  "51": {
+    "Customer Name": "claire",
+    "Drink Type": "Flate White",
+    "Milk Type": "Lite",
+    "Strength": "1"
+  },
+  "52": {
+    "Customer Name": "Hayley",
+    "Drink Type": "Latte",
+    "Milk Type": "Lite",
+    "Strength": "1"
+  },
+  "53": {
+    "Customer Name": "Alex",
+    "Drink Type": "Flate White",
+    "Milk Type": "Almond",
+    "Strength": "2"
+  },
+  "54": {
+    "Customer Name": "",
+    "Drink Type": "Piccolo"
+  },
+  "55": {
+    "Customer Name": "heather",
+    "Drink Type": "Flate White",
+    "Milk Type": "Lite",
+    "Strength": "1"
+  },
+  "56": {
+    "Customer Name": "nikita",
+    "Drink Type": "Long Black"
+  },
+  "57": {
+    "Customer Name": "Deion",
+    "Drink Type": "Flate White",
+    "Milk Type": "Lite",
+    "Strength": "2"
+  },
+  "58": {
+    "Customer Name": "",
+    "Drink Type": "Flate White",
+    "Milk Type": "Lite",
+    "Strength": "2"
+  },
+  "59": {
+    "Customer Name": "selena",
+    "Drink Type": "Mocha",
+    "Milk Type": "Soy",
+    "Strength": "1"
+  },
+  "60": {
+    "Customer Name": "",
+    "Drink Type": "Cappuccino",
+    "Milk Type": "Almond",
+    "Strength": "2"
+  },
+  "61": {
+    "Customer Name": "dean",
+    "Drink Type": "Long Black",
+    "Strength": "2"
+  },
+  "62": {
+    "Customer Name": "david",
+    "Drink Type": "Piccolo",
+    "Milk Type": "Full Cream",
+    "Strength": "2"
+  },
+  "63": {
+    "Customer Name": "fleur",
+    "Drink Type": "Cappuccino",
+    "Milk Type": "Almond",
+    "Strength": "2"
+  },
+  "64": {
+    "Customer Name": "mark",
+    "Drink Type": "Iced Latte",
+    "Milk Type": "Lite",
+    "Strength": "2"
+  },
+  "65": {
+    "Customer Name": "",
+    "Drink Type": "Flate White",
+    "Milk Type": "Lite",
+    "Strength": "2"
+  },
+  "66": {
+    "Customer Name": "1 sugar",
+    "Drink Type": "Flate White",
+    "Milk Type": "Full Cream",
+    "Strength": "2"
+  },
+  "67": {
+    "Customer Name": "sophie",
+    "Drink Type": "Flate White",
+    "Milk Type": "Lite",
+    "Strength": "1"
+  },
+  "68": {
+    "Customer Name": "",
+    "Drink Type": "Hot Choc",
+    "Milk Type": "Lite"
+  },
+  "69": {
+    "Customer Name": "Peta",
+    "Drink Type": "Flate White",
+    "Milk Type": "Full Cream",
+    "Strength": "1"
+  },
+  "70": {
+    "Customer Name": "cath",
+    "Drink Type": "Long Black",
+    "Milk Type": "N/A"
+  },
+  "71": {
+    "Customer Name": "arjun",
+    "Drink Type": "Flate White",
+    "Milk Type": "Almond",
+    "Strength": "1/2"
+  },
+  "72": {
+    "Customer Name": "ella",
+    "Drink Type": "Flate White",
+    "Milk Type": "Almond",
+    "Strength": "2"
+  },
+  "73": {
+    "Customer Name": "",
+    "Drink Type": "Cappuccino",
+    "Milk Type": "Full Cream",
+    "Strength": "2"
+  },
+  "74": {
+    "Customer Name": "kate",
+    "Drink Type": "Long Black",
+    "Milk Type": "Full Cream",
+    "Strength": "1"
+  },
+  "75": {
+    "Customer Name": "Nathan",
+    "Drink Type": "Flate White",
+    "Milk Type": "Oat",
+    "Strength": "1"
+  },
+  "76": {
+    "Customer Name": "zac",
+    "Drink Type": "Iced LB",
+    "Milk Type": "Full Cream",
+    "Strength": "2"
+  },
+  "77": {
+    "Customer Name": "",
+    "Drink Type": "Piccolo",
+    "Milk Type": "Soy",
+    "Strength": "1"
+  },
+  "78": {
+    "Customer Name": "",
+    "Drink Type": "Hot Choc",
+    "Milk Type": "Full Cream"
+  },
+  "79": {
+    "Customer Name": "Edward",
+    "Drink Type": "Cappuccino",
+    "Milk Type": "Soy"
+  },
+  "80": {
+    "Customer Name": "aadit",
+    "Drink Type": "Cappuccino",
+    "Milk Type": "Full Cream",
+    "Strength": "1"
+  },
+  "81": {
+    "Customer Name": "clinton",
+    "Drink Type": "Long Black"
+  },
+  "82": {
+    "Customer Name": "nick",
+    "Drink Type": "Short Black",
+    "Strength": "2"
+  },
+  "83": {
+    "Customer Name": "heather",
+    "Drink Type": "Flate White",
+    "Milk Type": "Lite",
+    "Strength": "1"
+  },
+  "84": {
+    "Customer Name": "matt",
+    "Drink Type": "Flate White",
+    "Milk Type": "Full Cream",
+    "Strength": "2"
+  },
+  "85": {
+    "Customer Name": "annalise",
+    "Drink Type": "Flate White",
+    "Milk Type": "Soy"
+  },
+  "86": {
+    "Customer Name": "Alex",
+    "Drink Type": "Flate White",
+    "Milk Type": "Almond",
+    "Strength": "2"
+  },
+  "87": {
+    "Customer Name": "amy",
+    "Drink Type": "Cappuccino",
+    "Milk Type": "Almond",
+    "Strength": "1"
+  },
+  "88": {
+    "Customer Name": "Jordan",
+    "Drink Type": "Piccolo",
+    "Milk Type": "Full Cream",
+    "Strength": "1/2"
+  },
+  "89": {
+    "Customer Name": "",
+    "Drink Type": "Flate White",
+    "Milk Type": "Oat",
+    "Strength": "1"
+  },
+  "90": {
+    "Customer Name": "nikita",
+    "Drink Type": "Iced Dirty Chai",
+    "Milk Type": "Almond"
+  },
+  "91": {
+    "Customer Name": "Deion",
+    "Drink Type": "Flate White",
+    "Milk Type": "Lite",
+    "Strength": "1"
+  },
+  "92": {
+    "Customer Name": "",
+    "Drink Type": "Flate White",
+    "Milk Type": "Lite",
+    "Strength": "1"
+  },
+  "93": {
+    "Customer Name": "one sugar please",
+    "Drink Type": "Flate White",
+    "Milk Type": "Full Cream",
+    "Strength": "1"
+  },
+  "94": {
+    "Customer Name": "hugo",
+    "Drink Type": "Dirty Chai",
+    "Milk Type": "Lite",
+    "Strength": "1"
+  },
+  "95": {
+    "Customer Name": "N/A",
+    "Drink Type": "Cap",
+    "Milk Type": "Full Cream",
+    "Strength": "1"
+  },
+  "96": {
+    "Customer Name": "jB",
+    "Drink Type": "Flate White",
+    "Milk Type": "Full Cream",
+    "Strength": "2"
+  },
+  "97": {
+    "Customer Name": "claire",
+    "Drink Type": "Flate White",
+    "Milk Type": "Lite",
+    "Strength": "1"
+  },
+  "98": {
+    "Customer Name": "Peta",
+    "Drink Type": "Flate White",
+    "Milk Type": "Full Cream",
+    "Strength": "1"
+  },
+  "99": {
+    "Customer Name": "",
+    "Drink Type": "Cappuccino",
+    "Milk Type": "Soy",
+    "Strength": "1"
+  },
+  "100": {
+    "Customer Name": "peter",
+    "Drink Type": "Cappuccino",
+    "Milk Type": "Full Cream",
+    "Strength": "1"
+  },
+  "101": {
+    "Customer Name": "",
+    "Drink Type": "Chai Latte",
+    "Milk Type": "Lactose Free"
+  },
+  "102": {
+    "Customer Name": "",
+    "Drink Type": "Latte",
+    "Milk Type": "Almond",
+    "Strength": "1/2"
+  },
+  "103": {
+    "Customer Name": "",
+    "Drink Type": "Latte",
+    "Milk Type": "Lactose Free",
+    "Strength": "1/2"
+  },
+  "104": {
+    "Customer Name": "",
+    "Drink Type": "Cappuccino",
+    "Milk Type": "Full Cream",
+    "Strength": "1"
+  },
+  "105": {
+    "Customer Name": "N/A",
+    "Drink Type": "Flat White",
+    "Milk Type": "Full Cream",
+    "Strength": "1"
+  },
+  "106": {
+    "Customer Name": "lindy",
+    "Drink Type": "Mocha",
+    "Milk Type": "Lite",
+    "Strength": "2"
+  },
+  "107": {
+    "Customer Name": "jacob",
+    "Drink Type": "Peppermint Tea",
+    "Milk Type": "N/A",
+    "Strength": "1"
+  },
+  "108": {
+    "Customer Name": "jenny",
+    "Drink Type": "Mocha",
+    "Milk Type": "Almond",
+    "Strength": "1"
+  },
+  "109": {
+    "Customer Name": "",
+    "Drink Type": "Flate White",
+    "Milk Type": "Full Cream",
+    "Strength": "1"
+  },
+  "110": {
+    "Customer Name": "sean",
+    "Drink Type": "Mocha",
+    "Milk Type": "Full Cream",
+    "Strength": "1"
+  },
+  "111": {
+    "Customer Name": "zac",
+    "Drink Type": "Mocha",
+    "Milk Type": "Full Cream",
+    "Strength": "1"
+  },
+  "112": {
+    "Customer Name": "Jordan",
+    "Drink Type": "Piccolo",
+    "Milk Type": "Full Cream",
+    "Strength": "1/2"
+  },
+  "113": {
+    "Customer Name": "",
+    "Drink Type": "Flate White",
+    "Milk Type": "Full Cream",
+    "Strength": "1"
+  },
+  "114": {
+    "Customer Name": "3/4 pls",
+    "Drink Type": "Latte",
+    "Milk Type": "Full Cream",
+    "Strength": "1"
+  },
+  "115": {
+    "Customer Name": "sophie",
+    "Drink Type": "Flate White",
+    "Milk Type": "Lite",
+    "Strength": "1"
+  },
+  "116": {
+    "Customer Name": "renee",
+    "Drink Type": "Cappuccino",
+    "Milk Type": "Almond",
+    "Strength": "1"
+  },
+  "117": {
+    "Customer Name": "",
+    "Drink Type": "Flate White",
+    "Milk Type": "Full Cream",
+    "Strength": "1"
+  },
+  "118": {
+    "Customer Name": "",
+    "Drink Type": "Decaf FW",
+    "Milk Type": "Lite",
+    "Strength": "1"
+  },
+  "119": {
+    "Customer Name": "",
+    "Drink Type": "Latte",
+    "Milk Type": "Almond",
+    "Strength": "1/2"
+  },
+  "120": {
+    "Customer Name": "",
+    "Drink Type": "Latte",
+    "Milk Type": "Almond",
+    "Strength": "1/2"
+  },
+  "121": {
+    "Customer Name": "zac",
+    "Drink Type": "Piccolo",
+    "Milk Type": "Full Cream",
+    "Strength": "1"
+  },
+  "122": {
+    "Customer Name": "",
+    "Drink Type": "Green Tea"
+  },
+  "123": {
+    "Customer Name": "",
+    "Drink Type": "Hot Choc",
+    "Milk Type": "Full Cream"
+  },
+  "124": {
+    "Customer Name": "",
+    "Drink Type": "Flate White",
+    "Milk Type": "Lite",
+    "Strength": "2"
+  },
+  "125": {
+    "Customer Name": "Alex",
+    "Drink Type": "Latte",
+    "Milk Type": "Almond",
+    "Strength": "2"
+  },
+  "126": {
+    "Customer Name": "luke",
+    "Drink Type": "Latte",
+    "Milk Type": "Full Cream",
+    "Strength": "2"
+  },
+  "127": {
+    "Customer Name": "Hayley",
+    "Drink Type": "Latte",
+    "Milk Type": "Lite",
+    "Strength": "1"
+  },
+  "128": {
+    "Customer Name": "",
+    "Drink Type": "Iced Latte",
+    "Milk Type": "Lite",
+    "Strength": "2"
+  },
+  "129": {
+    "Customer Name": "dave",
+    "Drink Type": "Piccolo",
+    "Milk Type": "Full Cream",
+    "Strength": "2"
+  },
+  "130": {
+    "Customer Name": "Deion",
+    "Drink Type": "Flate White",
+    "Milk Type": "Lite",
+    "Strength": "2"
+  },
+  "131": {
+    "Customer Name": "claire",
+    "Drink Type": "Flate White",
+    "Milk Type": "Lite",
+    "Strength": "2"
+  },
+  "132": {
+    "Customer Name": "Peta",
+    "Drink Type": "Flate White",
+    "Milk Type": "Full Cream",
+    "Strength": "1"
+  },
+  "133": {
+    "Customer Name": "aye",
+    "Drink Type": "Flate White",
+    "Milk Type": "Full Cream",
+    "Strength": "1"
+  },
+  "134": {
+    "Customer Name": "michael",
+    "Drink Type": "Hot Choc",
+    "Milk Type": "Full Cream"
+  },
+  "135": {
+    "Customer Name": "",
+    "Drink Type": "Iced Chai",
+    "Milk Type": "Lactose Free"
+  },
+  "136": {
+    "Customer Name": "sophie",
+    "Drink Type": "Flate White",
+    "Milk Type": "Lite",
+    "Strength": "1"
+  },
+  "137": {
+    "Customer Name": "Colin 3/4 full pls☺️",
+    "Drink Type": "Flate White",
+    "Milk Type": "Full Cream",
+    "Strength": "2"
+  },
+  "138": {
+    "Customer Name": "",
+    "Drink Type": "Hot Choc",
+    "Milk Type": "Full Cream"
+  },
+  "139": {
+    "Customer Name": "sophie",
+    "Drink Type": "Latte",
+    "Milk Type": "Almond",
+    "Strength": "2"
+  },
+  "140": {
+    "Customer Name": "",
+    "Drink Type": "Iced LB",
+    "Strength": "2"
+  },
+  "141": {
+    "Customer Name": "Luke (extra chai please)",
+    "Drink Type": "Chai Latte",
+    "Milk Type": "Full Cream",
+    "Strength": "3"
+  },
+  "142": {
+    "Customer Name": "sean",
+    "Drink Type": "Mocha",
+    "Milk Type": "Full Cream",
+    "Strength": "1"
+  },
+  "143": {
+    "Customer Name": "matt",
+    "Drink Type": "Flate White",
+    "Milk Type": "Full Cream",
+    "Strength": "2"
+  },
+  "144": {
+    "Customer Name": "",
+    "Drink Type": "Piccolo",
+    "Milk Type": "Soy",
+    "Strength": "1"
+  },
+  "145": {
+    "Customer Name": "",
+    "Drink Type": "Long Black",
+    "Strength": "2"
+  },
+  "146": {
+    "Customer Name": "hb",
+    "Drink Type": "Hot Choc",
+    "Milk Type": "Lite"
+  },
+  "147": {
+    "Customer Name": "pete",
+    "Drink Type": "Cappuccino",
+    "Milk Type": "Full Cream",
+    "Strength": "1"
+  },
+  "148": {
+    "Customer Name": "LEO",
+    "Drink Type": "Latte",
+    "Milk Type": "Almond",
+    "Strength": "2"
+  },
+  "149": {
+    "Customer Name": "niren",
+    "Drink Type": "Latte",
+    "Milk Type": "Full Cream",
+    "Strength": "1"
+  },
+  "150": {
+    "Customer Name": "pete",
+    "Drink Type": "Flate White",
+    "Milk Type": "Full Cream",
+    "Strength": "1"
+  },
+  "151": {
+    "Customer Name": "",
+    "Drink Type": "Chai Latte",
+    "Milk Type": "Full Cream"
+  },
+  "152": {
+    "Customer Name": "",
+    "Drink Type": "Iced Latte",
+    "Milk Type": "Full Cream",
+    "Strength": "2"
+  },
+  "153": {
+    "Customer Name": "arjun",
+    "Drink Type": "Iced Latte",
+    "Milk Type": "Almond",
+    "Strength": "1/2"
+  },
+  "154": {
+    "Customer Name": "",
+    "Drink Type": "Cappuccino",
+    "Milk Type": "Full Cream",
+    "Strength": "2"
+  },
+  "155": {
+    "Customer Name": "Jordan",
+    "Drink Type": "Piccolo",
+    "Milk Type": "Full Cream",
+    "Strength": "1/2"
+  },
+  "156": {
+    "Customer Name": "",
+    "Drink Type": "Cappuccino",
+    "Milk Type": "Full Cream",
+    "Strength": "1"
+  },
+  "157": {
+    "Customer Name": "",
+    "Drink Type": "Piccolo"
+  },
+  "158": {
+    "Customer Name": "pete",
+    "Drink Type": "Cappuccino",
+    "Milk Type": "Full Cream",
+    "Strength": "1"
+  },
+  "159": {
+    "Customer Name": "Alex",
+    "Drink Type": "Latte",
+    "Milk Type": "Almond",
+    "Strength": "1"
+  },
+  "160": {
+    "Customer Name": "",
+    "Drink Type": "Flate White",
+    "Milk Type": "Full Cream",
+    "Strength": "2"
+  },
+  "161": {
+    "Customer Name": "janet",
+    "Drink Type": "Cappuccino",
+    "Milk Type": "Soy",
+    "Strength": "1"
+  },
+  "162": {
+    "Customer Name": "zac",
+    "Drink Type": "Mocha",
+    "Milk Type": "Full Cream",
+    "Strength": "1"
+  },
+  "163": {
+    "Customer Name": "Deion",
+    "Drink Type": "Flate White",
+    "Milk Type": "Lite",
+    "Strength": "1"
+  },
+  "164": {
+    "Customer Name": "sophie",
+    "Drink Type": "Cappuccino",
+    "Milk Type": "Almond",
+    "Strength": "2"
+  },
+  "165": {
+    "Customer Name": "N/A",
+    "Drink Type": "Flat White",
+    "Milk Type": "Full Cream",
+    "Strength": "2"
+  },
+  "166": {
+    "Customer Name": "",
+    "Drink Type": "Flate White",
+    "Milk Type": "Oat",
+    "Strength": "1"
+  },
+  "167": {
+    "Customer Name": "",
+    "Drink Type": "Flate White",
+    "Milk Type": "Soy",
+    "Strength": "2"
+  },
+  "168": {
+    "Customer Name": "tista",
+    "Drink Type": "Cappuccino",
+    "Milk Type": "Soy",
+    "Strength": "2"
+  },
+  "169": {
+    "Customer Name": "Amanda",
+    "Drink Type": "Cappuccino",
+    "Milk Type": "Full Cream",
+    "Strength": "2"
+  },
+  "170": {
+    "Customer Name": "sophie",
+    "Drink Type": "Flate White",
+    "Milk Type": "Oat",
+    "Strength": "1"
+  },
+  "171": {
+    "Customer Name": "Nish,extra hot,half full",
+    "Drink Type": "Latte",
+    "Milk Type": "Lite",
+    "Strength": "1"
+  },
+  "172": {
+    "Customer Name": "mark",
+    "Drink Type": "Iced Latte",
+    "Milk Type": "Lite",
+    "Strength": "1"
+  },
+  "173": {
+    "Customer Name": "david",
+    "Drink Type": "Hot Choc",
+    "Milk Type": "Full Cream"
+  },
+  "174": {
+    "Customer Name": "Michael",
+    "Drink Type": "Flate White",
+    "Milk Type": "Lite",
+    "Strength": "2"
+  },
+  "175": {
+    "Customer Name": "claire",
+    "Drink Type": "Flate White",
+    "Milk Type": "Lite",
+    "Strength": "1"
+  },
+  "176": {
+    "Customer Name": "jes",
+    "Drink Type": "Cappuccino",
+    "Milk Type": "Full Cream",
+    "Strength": "1"
+  },
+  "177": {
+    "Customer Name": "",
+    "Drink Type": "Flate White",
+    "Milk Type": "Full Cream",
+    "Strength": "1"
+  },
+  "178": {
+    "Customer Name": "pete",
+    "Drink Type": "Flate White",
+    "Milk Type": "Full Cream",
+    "Strength": "2"
+  },
+  "179": {
+    "Customer Name": "hugo",
+    "Drink Type": "Piccolo",
+    "Milk Type": "Almond",
+    "Strength": "1"
+  },
+  "180": {
+    "Customer Name": "hugo",
+    "Drink Type": "Iced Chai",
+    "Milk Type": "Lite",
+    "Strength": "1"
+  },
+  "181": {
+    "Customer Name": "Jordan",
+    "Drink Type": "Piccolo",
+    "Milk Type": "Full Cream",
+    "Strength": "1/2"
+  },
+  "182": {
+    "Customer Name": "",
+    "Drink Type": "Flate White",
+    "Milk Type": "Full Cream",
+    "Strength": "2"
+  },
+  "183": {
+    "Customer Name": "",
+    "Drink Type": "Piccolo",
+    "Milk Type": "Almond",
+    "Strength": "1"
+  },
+  "184": {
+    "Customer Name": "",
+    "Drink Type": "Decaf Latte",
+    "Milk Type": "Lite",
+    "Strength": "1"
+  },
+  "185": {
+    "Customer Name": "sophie",
+    "Drink Type": "Mocha",
+    "Milk Type": "Almond"
+  },
+  "186": {
+    "Customer Name": "ben",
+    "Drink Type": "Flate White",
+    "Milk Type": "Lite",
+    "Strength": "2"
+  },
+  "187": {
+    "Customer Name": "dean",
+    "Drink Type": "Long Black",
+    "Strength": "2"
+  },
+  "188": {
+    "Customer Name": "david",
+    "Drink Type": "Piccolo",
+    "Milk Type": "Full Cream",
+    "Strength": "2"
+  },
+  "189": {
+    "Customer Name": "carly",
+    "Drink Type": "Latte",
+    "Milk Type": "Almond",
+    "Strength": "2"
+  },
+  "190": {
+    "Customer Name": "meg",
+    "Drink Type": "Flate White",
+    "Milk Type": "Lite",
+    "Strength": "2"
+  },
+  "191": {
+    "Customer Name": "bruce +1 sugar",
+    "Drink Type": "Flate White",
+    "Milk Type": "Full Cream",
+    "Strength": "2"
+  },
+  "192": {
+    "Customer Name": "jen",
+    "Drink Type": "Dirty Chai",
+    "Milk Type": "Oat",
+    "Strength": "2"
+  },
+  "193": {
+    "Customer Name": "claire",
+    "Drink Type": "Flate White",
+    "Milk Type": "Lite",
+    "Strength": "2"
+  },
+  "194": {
+    "Customer Name": "steph\n",
+    "Drink Type": "Flate White",
+    "Milk Type": "Lite",
+    "Strength": "1"
+  },
+  "195": {
+    "Customer Name": "",
+    "Drink Type": "Iced Latte",
+    "Strength": "1"
+  },
+  "196": {
+    "Customer Name": "",
+    "Drink Type": "Cappuccino",
+    "Milk Type": "Almond",
+    "Strength": "2"
+  },
+  "197": {
+    "Customer Name": "fleur",
+    "Drink Type": "Cappuccino",
+    "Milk Type": "Almond",
+    "Strength": "2"
+  },
+  "198": {
+    "Customer Name": "Deion",
+    "Drink Type": "Flate White",
+    "Milk Type": "Lite",
+    "Strength": "2"
+  },
+  "199": {
+    "Customer Name": "zac",
+    "Drink Type": "Piccolo",
+    "Milk Type": "Full Cream",
+    "Strength": "1"
+  },
+  "200": {
+    "Customer Name": "sean",
+    "Drink Type": "Hot Choc",
+    "Milk Type": "Full Cream"
+  },
+  "201": {
+    "Customer Name": "janet",
+    "Drink Type": "Cappuccino",
+    "Milk Type": "Soy",
+    "Strength": "1"
+  },
+  "202": {
+    "Customer Name": "arjun",
+    "Drink Type": "Iced Latte",
+    "Milk Type": "Almond",
+    "Strength": "1/2"
+  },
+  "203": {
+    "Customer Name": "Kimberly",
+    "Drink Type": "Chai Latte",
+    "Milk Type": "Lactose Free"
+  },
+  "204": {
+    "Customer Name": "Peta",
+    "Drink Type": "Flate White",
+    "Milk Type": "Full Cream",
+    "Strength": "1"
+  },
+  "205": {
+    "Customer Name": "matt",
+    "Drink Type": "Flate White",
+    "Milk Type": "Full Cream",
+    "Strength": "2"
+  },
+  "206": {
+    "Customer Name": "",
+    "Drink Type": "Mocha",
+    "Milk Type": "Soy",
+    "Strength": "1"
+  },
+  "207": {
+    "Customer Name": "aye",
+    "Drink Type": "Flate White",
+    "Milk Type": "Full Cream",
+    "Strength": "1"
+  },
+  "208": {
+    "Customer Name": "",
+    "Drink Type": "Flate White",
+    "Milk Type": "Lite",
+    "Strength": "2"
+  },
+  "209": {
+    "Customer Name": "ella",
+    "Drink Type": "Flate White",
+    "Milk Type": "Almond",
+    "Strength": "2"
+  },
+  "210": {
+    "Customer Name": "Peta\nPeta",
+    "Drink Type": "Piccolo",
+    "Milk Type": "Full Cream",
+    "Strength": "1"
+  },
+  "211": {
+    "Customer Name": "peter",
+    "Drink Type": "Cappuccino",
+    "Milk Type": "Full Cream",
+    "Strength": "1"
+  },
+  "212": {
+    "Customer Name": "",
+    "Drink Type": "Hot Choc",
+    "Milk Type": "Oat"
+  },
+  "213": {
+    "Customer Name": "thomas",
+    "Drink Type": "Hot Choc",
+    "Milk Type": "Almond"
+  },
+  "214": {
+    "Customer Name": "nikita dao",
+    "Drink Type": "Iced Dirty Chai",
+    "Milk Type": "Almond"
+  },
+  "215": {
+    "Customer Name": "Deion",
+    "Drink Type": "Flate White",
+    "Milk Type": "Lite",
+    "Strength": "2"
+  },
+  "216": {
+    "Customer Name": "vanessa lactose free milk please ☺️",
+    "Drink Type": "Cappuccino",
+    "Strength": "1"
+  },
+  "217": {
+    "Customer Name": "jen",
+    "Drink Type": "Iced Dirty Chai",
+    "Milk Type": "Oat",
+    "Strength": "2"
+  },
+  "218": {
+    "Customer Name": "",
+    "Drink Type": "Piccolo",
+    "Milk Type": "Soy",
+    "Strength": "1"
+  },
+  "219": {
+    "Customer Name": "ben",
+    "Drink Type": "Flate White",
+    "Milk Type": "Lite",
+    "Strength": "2"
+  },
+  "220": {
+    "Customer Name": "sophie",
+    "Drink Type": "Dirty Chai",
+    "Milk Type": "Almond",
+    "Strength": "1"
+  },
+  "221": {
+    "Customer Name": "sean",
+    "Drink Type": "Hot Choc",
+    "Milk Type": "Full Cream"
+  },
+  "222": {
+    "Customer Name": "claire",
+    "Drink Type": "Flate White",
+    "Milk Type": "Lite",
+    "Strength": "1"
+  },
+  "223": {
+    "Customer Name": "Ted",
+    "Drink Type": "Dirty Chai",
+    "Milk Type": "Full Cream",
+    "Strength": "1"
+  },
+  "224": {
+    "Customer Name": "hugo",
+    "Drink Type": "Iced Dirty Chai",
+    "Milk Type": "Oat",
+    "Strength": "2"
+  },
+  "225": {
+    "Customer Name": "john o",
+    "Drink Type": "Decaf Latte",
+    "Milk Type": "Oat"
+  },
+  "226": {
+    "Customer Name": "jerry",
+    "Drink Type": "Iced Decaf L",
+    "Milk Type": "Soy",
+    "Strength": "2"
+  },
+  "227": {
+    "Customer Name": "",
+    "Drink Type": "Flate White",
+    "Milk Type": "Full Cream",
+    "Strength": "2"
+  },
+  "228": {
+    "Customer Name": "vanessa lactose free please ☺️",
+    "Drink Type": "Cappuccino",
+    "Strength": "1"
+  },
+  "229": {
+    "Customer Name": "michael",
+    "Drink Type": "Hot Choc",
+    "Milk Type": "Full Cream"
+  },
+  "Order Number": "229"
+}
